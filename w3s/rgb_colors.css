@@ -1,0 +1,28 @@
+/* 
+    RGB colors
+
+    rgb( red, green, blue) -> Valores dessas cores.
+*/
+
+/* Gray colors */
+
+p {
+    color: rgb(0,0,0);
+    color: rgb(60,60,60);
+    color: rgb(120,120,120);
+    color: rgb(180,180,180);
+    color: rgb(240,240,240);
+    color: rgb(255,255,255);
+    
+}
+
+/* 
+    rgba value
+
+    rgba( red, green, blue, alpha)
+
+    O parámetro de alpha é um número entre 0.0 (Completamente transparente) e 1.0 (Não transparente)
+*/
+
+
+
