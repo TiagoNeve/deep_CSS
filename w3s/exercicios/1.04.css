@@ -1,0 +1,5 @@
+/* Mudar a cor de todos os <p> e <h1> para red. Seletores de grupos minimizam o tamando do código */
+
+p, h1 {
+    color: red;
+}

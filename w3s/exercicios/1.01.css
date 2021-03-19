@@ -1,0 +1,5 @@
+/* Mudar a cor de todos os <p> para red */
+
+p {
+    color: red;
+}

@@ -1,0 +1,5 @@
+/* Trocar a colo de todos os elementos com a classe colortext para red. */
+
+.colortext {
+    color: red;
+}
