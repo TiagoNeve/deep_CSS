@@ -66,3 +66,13 @@ p {
     background-position: right top; -> Container vai para o superior direito da imagem.
     
 */
+
+/* 
+    BACKGROUND-ATTACHMENT
+
+    Informa se a imagem vai ser scrollada na página ou se vai ficar fixa.
+    Dessa forma para definir essa propriedade deve-se chamar a propriedade
+
+    background-attachment: fixed; -> Deixará a imagem fixa na tela, dessa forma se a tela descer
+    a imagem também descerá
+*/
