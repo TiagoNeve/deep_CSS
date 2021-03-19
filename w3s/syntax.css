@@ -1,0 +1,13 @@
+/*
+CSS Syntax
+
+    Selector {
+        property: value;
+        property: value;
+    }
+*/
+
+p {
+    color: red;
+    text-align: center;
+}
