@@ -2,7 +2,7 @@
 
 ## Descrição
 
-    30 dias com estudo somente de CSS, buscando se aprofundar muito nessa tecnologia
+30 dias com estudo somente de CSS, buscando se aprofundar muito nessa tecnologia
 
 ## Objetivos
 
