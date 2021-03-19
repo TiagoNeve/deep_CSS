@@ -76,3 +76,38 @@ p {
     background-attachment: fixed; -> Deixará a imagem fixa na tela, dessa forma se a tela descer
     a imagem também descerá
 */
+
+/* 
+    BACKGROUND-SHORTHAND
+
+    Utilizado para acessar as propriedades de background mais rapidamente e com menos 
+    códigos.
+    As ordens do background shorthadn é: 
+
+    background: color image repeat attachment position
+*/
+
+/* 
+    Todas as propriedades do backgroud
+
+    background: -> Shrothand
+
+    background-attachment: -> Informa se a imagem que está setada vai ser fixa ou scrollada
+
+    background-clip: -> Define em que parte do box os efeitos do background será afetado
+    Se será no border-box / padding-box / content-box
+
+    background-color: -> Define a cor de fundo do background
+    
+    background-image: -> Seta uma imagem no background.
+
+    background-origin: -> Informa em qual parte do box a imagem será renderizada, se será 
+    no padding-box / border-box / content-box
+
+    background-position: -> Informa a posição que a imagem será iniciada.
+
+    background-repeat: -> Seta como a imagem de fundo será repetiada.
+
+    background-size: -> Informa o tamanho da imagem de fundo.
+
+*/
