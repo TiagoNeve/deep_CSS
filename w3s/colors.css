@@ -1,0 +1,48 @@
+/* 
+    Cores no css
+*/
+
+* {
+    color: tomato;
+    color: orange;
+    color: dodgerblue;
+    color: mediumseagreen;
+    color: gray;
+    color: slateblue;
+    color: violet;
+    color: lightgray;
+    /* CSS suporta 140 colors name */
+}
+
+/* background-color -> Define a cor de fundo de algum elemento */
+
+p {
+    background-color: lime;
+}
+
+/* color -> define a cor do texto do elemento */
+
+h1 {
+    color: coral;
+}
+
+/* border -> Definir a cor da borda além de seu estilo e largura */
+
+div {
+    border: 2px solid aqua;
+}
+
+/* Color values -> É possível ter cores customizadas 
+    utilizando as funções: 
+    rgb()
+    #hexacolor
+    hsl()
+*/
+
+p {
+    color: rgb(255, 99, 71);
+    color: #ff6347;
+    color: hsl(9, 100%, 64%);
+    color: rgba(255, 99, 71, 0.5);
+    color: hsla(9, 100%, 64%, 0.5);
+}
