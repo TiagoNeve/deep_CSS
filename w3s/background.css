@@ -45,3 +45,24 @@ p {
     
 */
 
+/* 
+    BACKGROUND-REPEAT
+
+    Por padrão o CSS repete a imagem dentro do container.
+    Para modificar esse padrão deve-se colocar a propriedade: 
+
+    background-repeat: repeat-x; -> Para repetir somente de lado.
+    background-repeat: repeat-y; -> Repetir somente encima.
+    background-repeat: no-repeat; -> Mostra a imagem apenas uma vez. Mas cuidado, ela
+    toma o tamanho da tela.
+    
+*/
+
+/* 
+    BACKGROUND-POSITION
+
+    Define a posição do container dentro da imagem.
+
+    background-position: right top; -> Container vai para o superior direito da imagem.
+    
+*/
