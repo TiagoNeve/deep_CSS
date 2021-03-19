@@ -1,0 +1,64 @@
+/*
+    CSS Seletores
+    São usados para procurar elementos no html
+    e estilizar os elementos encontrados
+
+    Seletores simples : nomes, id, classes
+    
+    Seletores combinados : Relacionamento entre 
+    seletores simples.
+
+    Pseudo-class seletores: Seletores de elementos baseados
+    em estados que aquele elemento se encontra.
+
+    Pseudo-elements seletores: Adiciona estilo em apenas
+    uma parte do elemento.
+
+    Seletores de atribuição: Seleciona os elementos de 
+    acordo com os atributos ou valores que recebem.
+*/
+
+* { /* Seletor universal */
+    text-align: center;
+    color: blue;
+}
+
+/* p {
+    text-align: center;
+    color: red;
+}
+
+#para1 {
+    text-align: center;
+    color: red;
+} */
+
+.center { /*Mais específico*/
+    text-align: left;
+    color: blue;
+}
+
+/* p.center { 
+    text-align: center;
+    color: red;
+} */
+
+p.large { /* paragrafo com duas classes */
+    text-align: right;
+    color: yellow;
+} 
+
+p, #para1, p.center { /* Como ficou em grupo o peso do css ficou maior, dessa forma esse estilo subscreveu o anterior */
+    text-align: center;
+    color: red;
+}
+
+/* 
+    #id -> Seletor de id
+    .class -> Seletor de classes
+    element.class -> Seletor de elemento com classe, mais específico
+
+    * -> Seletor universal
+    element -> Seletor de elemento HTML
+    element, element -> Seletor de grupo
+*/
