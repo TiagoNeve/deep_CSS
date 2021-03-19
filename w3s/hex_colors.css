@@ -1,0 +1,28 @@
+/* Hexadecimal Colors 
+
+    #rrggbb -> Mesma lógica de rgb, porém utilizando
+    códigos hexadecimais
+*/
+
+/* grey scales */
+
+p {
+    color: #000000;
+    color: #3c3c3c;
+    color: #787878;
+    color: #b4b4b4;
+    color: #f0f0f0;
+    color: #ffffff;
+}
+
+/* 3 digits Hex Value 
+
+    #rgb -> Utiliza essa formação de código, para cores
+    não muito específicos
+*/
+
+p {
+    color: #fc9;
+    color: #f0f;
+    color: #b58;
+}
