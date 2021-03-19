@@ -32,3 +32,16 @@ p {
     /* Tem essa forma de declarar, mas utilizando hsla fica melhor */
 }
 
+/* 
+    BACKGROUND-IMAGE
+
+    Utiliza uma imagem no fundo do elemento, deve-se renderizar a imagem
+    utilizando a função url("path.img")
+
+    Sempre verifique se a imagem do fundo não interfere na leitura do 
+    conteúdo.
+
+    É possível colocar uma foto de fundo em qualquer elemento do html.
+    
+*/
+
