@@ -1,0 +1,34 @@
+/* CSS Backgrounds
+
+    Utilizadas para criar fundos em páginas ou elementos
+    utiliza de atributos para chegar nesse resultado.
+
+    background-color -> Adiciona cor de fundo
+    
+    background-image -> Adiciona uma imagem no fundo
+
+    background-repeat ->
+
+    background-attachment -> 
+
+    background-position -> Define a posição do fundo
+
+    background: -> shorthand
+*/
+
+/* background-color */
+p {
+    background-color: hsl(66, 66%, 50%);
+    /* Pode receber qualquer valor de cores */
+}
+
+/* Opacity / transparency */
+/* É possível ter a propriedade opacity, para definir a transparência
+    do elemento
+*/
+p {
+    background-color: hsla(20, 100%, 50%, 0.3);
+    opacity: 0.3; 
+    /* Tem essa forma de declarar, mas utilizando hsla fica melhor */
+}
+
