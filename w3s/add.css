@@ -1,0 +1,22 @@
+/* 
+    Formas de adicionar CSS
+
+    CSS Externo -> utiliza um arquivo com extensão .css
+
+    <link rel="stylesheet" href="mystyle.css">
+
+    CSS interno -> Utiliza uma tag Style dentro do HTML
+
+    CSS Inline -> Utiliza a propriedade style na declaração do elemento no HTML
+
+    O CSS reconhece a última alteração no estilo de cima para baixo, não importa se está vindo de arquivos diferentes, sempre o último arquivo terá prioridade.
+*/
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
