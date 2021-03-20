@@ -1,0 +1,13 @@
+/* CSS Margins */
+
+/* 
+    As margens são utilizadas para dar espaçamento entre elementos
+    podenod utilizar de shorthands, como :
+
+    margin: -> shorthand com valores, 10px / 10px 15px / 10px 20px 15px / 10px 15px 13px 20px
+  
+*/
+
+/* 
+    Margem colapso, significa que as margens entre elementos podem não se somar, e acabar gerando um efeito fora de cálculo.
+*/
