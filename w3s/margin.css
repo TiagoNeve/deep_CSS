@@ -11,3 +11,12 @@
 /* 
     Margem colapso, significa que as margens entre elementos podem não se somar, e acabar gerando um efeito fora de cálculo.
 */
+
+/* 
+    Property	Description
+    margin	A shorthand property for setting the margin properties in one declaration
+    margin-bottom	Sets the bottom margin of an element
+    margin-left	Sets the left margin of an element
+    margin-right	Sets the right margin of an element
+    margin-top	Sets the top margin of an element
+*/
