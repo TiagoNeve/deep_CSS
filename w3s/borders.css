@@ -6,3 +6,30 @@
     formas.
 */
 
+/* 
+    border-width: -> Define a largura da porda. Se informar apenas uma, o efeito se aplicará em todos, se informar duas o efeito se aplicará up/down right/left, e se for informado 4,
+    será um valor aplicado para cada lado do box, seguindo o sentido horário
+*/
+
+/* 
+    border-color: -> Define a cor da borda, pode receber qualquer valor relacionado a cores.
+    É possível definir cada cor da borda, basta adicionar 4 cores diferentes ou iguais na
+    propriedade border-color.
+*/
+
+/* 
+    border: -> Shorthand, ordem seria : width / style / color 
+
+    border: 5px solid red;
+
+    É possível utilizar shorthand para um lado da borda.
+
+    border-left: 6px solid red;
+
+*/
+
+/* 
+    Bordas redondas.
+
+    border-radius: -> Utilizado para criar uma borda redonda na área.
+*/
