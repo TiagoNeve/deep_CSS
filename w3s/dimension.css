@@ -1,0 +1,18 @@
+/* 
+    Height - Width
+    Altura e Largura.
+    
+    max-width -> Seta a máxima largura de um elemento.
+    A largura e altura de um elemento não se relaciona com as propriedades desse elemento, no caso
+    a largura atua por cima da margem, portanto no escopo global do elemento.
+
+    valores: 
+
+    auto -> Podem receber um valor automático
+    px, cm, etc -> Pode receber um valor bem definido
+    % -> Pode receber o valor em porcentagem
+    initial -> Seta a altara/largura no valor padrão.
+    inherit -> O valor recebe o mesmo valor de altura e largura do elemento pai
+
+    
+*/
