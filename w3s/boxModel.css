@@ -1,0 +1,21 @@
+/*  
+    BOX MODEL
+
+    Todo elemento HTML é um BOX, dessa forma é possível atribuir qualquer carect
+    rística a um elemento.
+
+    content -> Conteúdo onde as imagens e textos aparecem
+    padding -> Área ao redor do conteudo, ela é transparente.
+    border -> A borda vai ao redor do paddin e conteúdo, ela pode receber
+              largura e cores, além de estilus
+    margin -> Área ao redor da borda, ela é transparente.
+
+    Quando é setada a largura e a altura de um elemento, esses valores correspondem apenas ao content, do box model, portanto os outros valores podem acabar aumentando o tamanho do elemento sem a intenção.
+*/
+
+div {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
