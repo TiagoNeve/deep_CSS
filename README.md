@@ -4,7 +4,7 @@
 
 30 dias com estudo somente de CSS, buscando se aprofundar muito nessa tecnologia
 
-## Objetivos aeeee
+## Objetivos aeeee Boraaaa
 
     [X] Sem frameworks
     [X] Pequenos projetos para praticar 
