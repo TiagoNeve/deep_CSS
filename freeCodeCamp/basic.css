@@ -14,4 +14,20 @@
     o atributo e valor, e todos os elementos que tiverem esse mesmo atributo e valor
     irão receber o estilo.
     [attr=value] -> Seletor de atributo-valor.
+
+    !important -> Informa que essa propriedade CSS deve estar acima de todos.
+
+    Para criar variáveis no CSS deve-se utilizar dois traços seguido do nome da variável.
+    --variavelNome: value;
+    Para se utilizar a variável, basta usar a função var(--variavelNome), assim evita-se ter código repitido 
+    no css, e caso seja necessário mudar alguma propriedade em vários locais da página, basta modificar
+    em um local que será refletido nos demais.
+
+    Um bom uso para declarar as variáveis é declara-las na raiz do documento, para isso usa-se o seletor: 
+    :root {
+        --Variavel-declarada-aqui
+    }
+
+    Com a utilização de variáveis no CSS fica mais fácil de usar as medias-queries, pois basta modificar as variáveis 
+    e elas serão refletidas no escopo da página.
 */
