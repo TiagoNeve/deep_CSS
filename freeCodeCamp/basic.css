@@ -6,5 +6,12 @@
 /*
     font-size -> Modifica o tamanho da fonte.
     font-family -> Modifica a font.
-    
+    tag Link -> Ajuda na hora de utilizar outras fontes
+    border-radius -> Deixa o conteúdo com laterais redondas
+
+    É possível atribuir estilos utilizando seletores de atributos e valores,
+    assim não é preciso criar classes ao longo do html, bastante apenas selecionar 
+    o atributo e valor, e todos os elementos que tiverem esse mesmo atributo e valor
+    irão receber o estilo.
+    [attr=value] -> Seletor de atributo-valor.
 */
